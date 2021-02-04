@@ -1,0 +1,13 @@
+C:\Users\carlp\assignment-4-18415304\bin\Debug\netcoreapp3.1\assignment-4-18415304.exe
+C:\Users\carlp\assignment-4-18415304\bin\Debug\netcoreapp3.1\assignment-4-18415304.deps.json
+C:\Users\carlp\assignment-4-18415304\bin\Debug\netcoreapp3.1\assignment-4-18415304.runtimeconfig.json
+C:\Users\carlp\assignment-4-18415304\bin\Debug\netcoreapp3.1\assignment-4-18415304.runtimeconfig.dev.json
+C:\Users\carlp\assignment-4-18415304\bin\Debug\netcoreapp3.1\assignment-4-18415304.dll
+C:\Users\carlp\assignment-4-18415304\bin\Debug\netcoreapp3.1\assignment-4-18415304.pdb
+C:\Users\carlp\assignment-4-18415304\obj\Debug\netcoreapp3.1\assignment-4-18415304.csprojAssemblyReference.cache
+C:\Users\carlp\assignment-4-18415304\obj\Debug\netcoreapp3.1\assignment-4-18415304.AssemblyInfoInputs.cache
+C:\Users\carlp\assignment-4-18415304\obj\Debug\netcoreapp3.1\assignment-4-18415304.AssemblyInfo.cs
+C:\Users\carlp\assignment-4-18415304\obj\Debug\netcoreapp3.1\assignment-4-18415304.csproj.CoreCompileInputs.cache
+C:\Users\carlp\assignment-4-18415304\obj\Debug\netcoreapp3.1\assignment-4-18415304.dll
+C:\Users\carlp\assignment-4-18415304\obj\Debug\netcoreapp3.1\assignment-4-18415304.pdb
+C:\Users\carlp\assignment-4-18415304\obj\Debug\netcoreapp3.1\assignment-4-18415304.genruntimeconfig.cache
